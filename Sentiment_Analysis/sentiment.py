@@ -166,16 +166,6 @@ def preprocessing_functionality():
     return vectorized_training_data, vectorized_test_data, training_labels, test_labels, vocab
 
 
-# def display_vectors(text_vectors, vocab, data):
-    # for vector_row in range(10):
-    #     print(f'Original Sentence: {data[vector_row]}')
-    #     print(f'New Sentence: ', end="")
-    #     for idx in range(len(vocab)):
-    #         if (text_vectors[vector_row][idx] == 1):
-    #             print(f'{vocab[idx]} ', end="")
-    #     print("\n")
-
-
 def plot_predictions(plot_data):
     # Get the x and y values for both our plots.
     x_axis = [25, 50, 75, 100]
