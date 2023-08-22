@@ -1,0 +1,13 @@
+Prediction Accuracy results for test and training datasets in 25% increments.
+
+Prediction Accuracy of Training Documents
+Trained on 125 documents: 74% accuracy
+Trained on 250 documents: 81% accuracy
+Trained on 375 documents: 86% accuracy
+Trained on 499 documents: 96% accuracy
+
+Prediction Accuracy of Testing Documents
+Trained on 125 documents: 62% accuracy
+Trained on 250 documents: 67% accuracy
+Trained on 375 documents: 71% accuracy
+Trained on 499 documents: 80% accuracy
